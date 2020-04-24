@@ -19,7 +19,7 @@
 
   <img alt="TypeScript version" src="https://img.shields.io/badge/TypeScript-v3.8.3-blue?style=flat&logo=typescript">
 
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/codacy/grade/c762b783657c416a89983629b4f4b133">
+  <img alt="GitHub code size in bytes" src="https://api.codacy.com/project/badge/Grade/8f4e11eae8444f909717faec2ec3ef60">
 
   <a href="https://github.com/RBritoX/GoStack-Challenge05-NodeJsFoundations/blob/master/LICENSE">
     <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-Challenge05-NodeJsFoundations">
